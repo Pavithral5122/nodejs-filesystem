@@ -1,0 +1,8 @@
+RENDER URL: https://nodejs-filesystem-onn4.onrender.com/
+WRITE FILE API ENDPOINT: https://nodejs-filesystem-onn4.onrender.com/writefile
+PAYLOAD FOR WRITE API: {
+    "fileName":"202312221706.txt",
+    "content":"202312221706"
+}
+GET FILE API ENDPOINT:  https://nodejs-filesystem-onn4.onrender.com/getAllFiles
+API DOCUMENTATION URL: https://documenter.getpostman.com/view/31956526/2s9YkrazUx
